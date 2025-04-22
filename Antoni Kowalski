@@ -1,0 +1,9 @@
+ltr - Displays information about the mod and the active profile.
+/ltr profiles - Shows available profiles.
+/ltr add <maxPrice> <item> - Adds an item to the active profile.
+/ltr remove <item> - Removes an item from the profile.
+/ltr list - Displays items in the active profile.
+/ltr help - Lists available commands.
+/ltr config save - Saves the configuration.
+/ltr config reload - Reloads configuration data.
+🛠 Configuration
